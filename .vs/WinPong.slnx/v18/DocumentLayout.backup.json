@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\3p\\Desktop\\WinPong\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18B4EE80-BC24-49A8-B9C3-E24FE31A4F21}|WinPong\\WinPong.csproj|c:\\users\\3p\\desktop\\winpong\\winpong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{18B4EE80-BC24-49A8-B9C3-E24FE31A4F21}|WinPong\\WinPong.csproj|solutionrelative:winpong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5FB8DD7F-1E58-AD19-E9C0-64DC7CED7076}|WinPong\\WinPong.csproj|c:\\users\\3p\\desktop\\winpong\\winpong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB8DD7F-1E58-AD19-E9C0-64DC7CED7076}|WinPong\\WinPong.csproj|solutionrelative:winpong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8DD7F-1E58-AD19-E9C0-64DC7CED7076}|WinPong\\WinPong.csproj|c:\\users\\3p\\desktop\\winpong\\winpong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FB8DD7F-1E58-AD19-E9C0-64DC7CED7076}|WinPong\\WinPong.csproj|solutionrelative:winpong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,18 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\3p\\Desktop\\WinPong\\WinPong\\Form1.cs",
+              "RelativeDocumentMoniker": "WinPong\\Form1.cs",
+              "ToolTip": "C:\\Users\\3p\\Desktop\\WinPong\\WinPong\\Form1.cs*",
+              "RelativeToolTip": "WinPong\\Form1.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T07:31:30.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\3p\\Desktop\\WinPong\\WinPong\\Form1.cs",
               "RelativeDocumentMoniker": "WinPong\\Form1.cs",
-              "ToolTip": "C:\\Users\\3p\\Desktop\\WinPong\\WinPong\\Form1.cs [Projekt]",
-              "RelativeToolTip": "WinPong\\Form1.cs [Projekt]",
+              "ToolTip": "C:\\Users\\3p\\Desktop\\WinPong\\WinPong\\Form1.cs [Projekt]*",
+              "RelativeToolTip": "WinPong\\Form1.cs [Projekt]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-15T07:18:53.877Z",
               "EditorCaption": " [Projekt]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
