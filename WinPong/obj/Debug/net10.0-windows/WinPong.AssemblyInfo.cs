@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinPong")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de5d0886b42644e1d4292e392928cf6f153b4a22")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ed47187fc227ab757c7e4033e45088f7196d44f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinPong")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinPong")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
