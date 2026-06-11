@@ -39,12 +39,13 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Black;
-            ClientSize = new Size(784, 561);
+            ClientSize = new Size(896, 748);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
-            Text = "Form1";
+            Text = "WinPong";
             Load += Form1_Load;
             Paint += Form1_Paint;
             KeyDown += Form1_KeyDown;
