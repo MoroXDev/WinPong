@@ -123,8 +123,8 @@ namespace WinPong
             g.FillRectangle(Brushes.White, computer_racket);
             g.FillEllipse(Brushes.White, ball);
 
-            e.Graphics.DrawString($"Gracz: {player_score}", font, Brushes.Red, new PointF(ClientSize.Width * 0.25f, ClientSize.Height * 0.05f));
-            e.Graphics.DrawString($"Komputer: {computer_score}", font, Brushes.Red, new PointF(ClientSize.Height * 0.9f, ClientSize.Height * 0.05f));
+            e.Graphics.DrawString($"Player: {player_score}", font, Brushes.Red, new PointF(ClientSize.Width * 0.25f, ClientSize.Height * 0.05f));
+            e.Graphics.DrawString($"Computer: {computer_score}", font, Brushes.Red, new PointF(ClientSize.Height * 0.9f, ClientSize.Height * 0.05f));
         }
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
