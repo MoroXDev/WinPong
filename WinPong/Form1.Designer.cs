@@ -28,14 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
-            timer1 = new System.Windows.Forms.Timer(components);
             SuspendLayout();
-            // 
-            // timer1
-            // 
-            timer1.Interval = 20;
-            timer1.Tick += timer1_Tick;
             // 
             // Form1
             // 
@@ -46,15 +39,14 @@
             Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "WinPong";
+            FormClosing += Form1_FormClosing;
             Load += Form1_Load;
-            Paint += Form1_Paint;
             KeyDown += Form1_KeyDown;
             KeyUp += Form1_KeyUp;
+            Resize += Form1_Resize;
             ResumeLayout(false);
         }
 
         #endregion
-
-        private System.Windows.Forms.Timer timer1;
     }
 }
