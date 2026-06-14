@@ -4,4 +4,13 @@
 ## Introduction
 Pong game written in c#, Windows Forms framework, where player fights against computer.
 
-## Rules
+## Controls
+### Movement
+- **W, Arrow Up**: Move up
+- **S, Arrow Down**: Move down
+### Speed adjust
+- **D, Arrow Right**: Increase Racket speed
+- **A, Arrow Left**: Decrease Racket speed
+- **+**: Increase ball speed
+- **-**: Decrease ball speed
+- **R**: Reset speed
