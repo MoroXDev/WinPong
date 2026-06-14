@@ -159,9 +159,9 @@ namespace WinPong
 
             if (e.KeyCode == Keys.R)
             {
-                player_speed = 6;
-                computer_speed = 2;
-                ball_speed = 4;
+                player_speed = 6f / (monitor_hz * 4);
+                computer_speed = 2f / (monitor_hz * 4);
+                ball_speed = 4f / (monitor_hz * 4);
             }
 
             if (e.KeyCode == Keys.Oemplus)
